@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifi-border)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifi-border&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sifi-border/sifi-border** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
