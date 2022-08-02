@@ -1,7 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifi-border)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifi-border&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifi-border&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sifi-border&theme=cobalt&show_icons=ture" />
+</p>
 <!--
 **sifi-border/sifi-border** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
